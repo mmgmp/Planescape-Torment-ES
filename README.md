@@ -1,2 +1,2 @@
-# Planescape-Torment-Espa-ol
+# Planescape-Torment-Español
 Traducciones al español de Planescape Torment
